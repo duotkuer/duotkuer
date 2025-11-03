@@ -1,20 +1,20 @@
-# 👋 Hi, I’m Duot Kuer  
+# Hi, I’m Duot Kuer  
 _Data Scientist · Machine Learning Engineer_
 
 ---
 
-## 🚀 About Me
-I design and deploy **end-to-end AI solutions** that turn raw data into business impact.  
+## About Me
+I design and deploy **end-to-end data science solutions** that turn raw data into business impact.  
 My work spans **predictive modeling, computer vision, NLP, time-series forecasting, and AI agents**.  
 
 I focus on:
-- 📊 Building production-ready ML systems (data → model → API → dashboard)  
-- 🤖 Designing intelligent agents that combine **tabular, text, and image data**  
-- 💡 Delivering insights that drive decisions in **healthcare, finance, and agriculture**  
+- Building production-ready ML systems (data → model → API → dashboard)  
+- Designing intelligent agents that combine **tabular, text, and image data**  
+- Delivering insights that drive decisions in **healthcare, finance, and agriculture**  
 
 ---
 
-## 🛠 Skills Snapshot
+## Skills Snapshot
 **Programming & Data:** Python · SQL · Pandas · NumPy  
 **ML & Deep Learning:** PyTorch · TensorFlow · Scikit-Learn · HuggingFace  
 **LLM/Agent Tools:** LangChain · OpenAI API · RAG (Chroma, Pinecone)  
@@ -34,10 +34,10 @@ I focus on:
 
 ---
 
-## 📫 Let’s Connect
+## Contacts
 📧 duotkuerduot@gmail.com  
 🔗 [linkedin.com/in/duotkuer](https://www.linkedin.com/in/duotkuer)  
 
 ---
 
-💡 *Open to Data Scientist & ML Engineer opportunities — let’s build impactful solutions together!*  
+*I am open to Data Science & Machine Learning opportunities — let’s build impactful solutions together!*  
