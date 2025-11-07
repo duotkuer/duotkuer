@@ -36,8 +36,4 @@ I focus on:
 
 ## Contacts
 📧 duotkuerduot@gmail.com  
-🔗 [linkedin.com/in/duotkuer](https://www.linkedin.com/in/duotkuer)  
-
----
-
-*I am open to Data Science & Machine Learning opportunities — let’s build impactful solutions together!*  
+🔗 [linkedin.com/in/duotkuer](https://www.linkedin.com/in/duotkuer)
