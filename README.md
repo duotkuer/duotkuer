@@ -14,7 +14,7 @@ I focus on:
 
 ---
 
-## Skills Snapshot
+## Skills
 **Programming & Data:** Python · SQL · Pandas · NumPy  
 **ML & Deep Learning:** PyTorch · TensorFlow · Scikit-Learn · HuggingFace  
 **LLM/Agent Tools:** LangChain · OpenAI API · RAG (Chroma, Pinecone)  
